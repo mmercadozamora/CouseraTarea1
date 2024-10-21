@@ -1,0 +1,46 @@
+/* Estilos generales */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Jumbotron personalizado */
+.jumbotron {
+    padding: 4rem 2rem;
+    margin-bottom: 2rem;
+}
+
+/* Cards para productos */
+.card {
+    margin-bottom: 2rem;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-body {
+    text-align: center;
+}
+
+/* Footer estilizado con grillas y flexbox */
+footer {
+    padding: 2rem 0;
+}
+
+footer .row {
+    display: flex;
+    justify-content: space-between;
+}
+
+footer .col-md-4 {
+    margin-bottom: 1rem;
+}
+
+/* Estilo para links del footer */
+footer a {
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+

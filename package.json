@@ -1,0 +1,16 @@
+{
+  "name": "responsive-website",
+  "version": "1.0.0",
+  "description": "A modern responsive website",
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "bootstrap": "^5.0.0",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
